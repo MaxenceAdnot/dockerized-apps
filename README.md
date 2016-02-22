@@ -4,9 +4,6 @@ Inspired by [docker compose scripts](https://github.com/docker/compose/tree/mast
 # Requirements
 Obviously docker engine needs to be installed before using these scripts
 
-# Linux
-For more simplicity in usage, place the dockerised-tools in your $PATH
-
 # Windows
 Intend to replace cygwin by some usefull docker containers.
 Your docker-machine needs to be set up before using these tools.
