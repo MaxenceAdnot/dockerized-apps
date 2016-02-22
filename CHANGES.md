@@ -1,3 +1,5 @@
+CHANGES : 
+
 - Corrected errors in scripts
 - Removed scoped functions
 - Converted remaining .bat files to .ps1
